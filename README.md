@@ -1,2 +1,2 @@
 # ML
-ML methods
+ML tasks
